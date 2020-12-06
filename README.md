@@ -1,1 +1,3 @@
-# vue_init
+# description
+
+this project is used for init vue project , including based configration such as axios ...
